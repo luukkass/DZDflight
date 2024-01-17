@@ -1,9 +1,9 @@
 # DZDflight
-Github jsme začali používat až později. Od začátku si každý dělal trochu to svoje, takže jsme zvolil github jako nástroj, kde spojíme jednotlivé sešity do jednoho repozitáře.
+
 Vypracovali : 
-* Martin Beneš – benm32@vse.cz 
-* Viet Anh Do – doho01@vse.cz 
-* Lukáš Mikšovský – mikl08@vse.cz
+* Martin Beneš
+* Viet Anh Do
+* Lukáš Mikšovský
   
 **Data:**
 * df_all_time_formatted.csv
